@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "605309356148",
+    "project_id": "day4-authfirebase-a319f",
+    "storage_bucket": "day4-authfirebase-a319f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:605309356148:android:f54ce00773b2fc1bd12921",
+        "android_client_info": {
+          "package_name": "tech.hamid.day4_googleauthfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "605309356148-aj606disg0n492gelb3gmfp414vs6sh7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUGiwBad8RwrEurrf-9AnwLhQZBIRS5rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "605309356148-aj606disg0n492gelb3gmfp414vs6sh7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
